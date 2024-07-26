@@ -2,7 +2,7 @@
 
 ### Prazer, Maria Eduarda Santos Soares!
 
-### Sou estudante da escola no SENAI de Análise Desenvolvimento de Sistemas. 
+### Sou estudante da escola SENAI de Análise Desenvolvimento de Sistemas. 
 
 ##
 ## *SOBRE MIM*
